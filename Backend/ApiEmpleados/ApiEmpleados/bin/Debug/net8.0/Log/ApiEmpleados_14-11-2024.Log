@@ -1,0 +1,4 @@
+14/11/2024 6:50:48 a. m. An error occurred while saving the entity changes. See the inner exception for details.
+14/11/2024 5:01:44 p. m. An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseMySql' call.
+14/11/2024 5:02:09 p. m. An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseMySql' call.
+14/11/2024 5:02:54 p. m. An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseMySql' call.
